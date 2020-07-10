@@ -1,0 +1,45 @@
+G:\PLATAFORMA\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.exe.config
+G:\PLATAFORMA\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.exe
+G:\PLATAFORMA\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.pdb
+G:\PLATAFORMA\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.Properties.Resources.resources
+G:\PLATAFORMA\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csproj.GenerateResource.Cache
+G:\PLATAFORMA\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.exe
+G:\PLATAFORMA\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.pdb
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.exe.config
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.exe
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.pdb
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csprojResolveAssemblyReference.cache
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.Properties.Resources.resources
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csproj.GenerateResource.Cache
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.exe
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.pdb
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.Form1.resources
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.exe.config
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.exe
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.Form1.resources
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csproj.GenerateResource.Cache
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.exe
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.pdb
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.exe.config
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.exe
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.pdb
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.Form1.resources
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.Properties.Resources.resources
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csproj.GenerateResource.cache
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.exe
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.pdb
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.exe.config
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.exe
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteWindowsCS\bin\Debug\ClienteWindowsCS.pdb
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.Form1.resources
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.Properties.Resources.resources
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csproj.GenerateResource.cache
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.exe
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteWindowsCS\obj\Debug\ClienteWindowsCS.pdb

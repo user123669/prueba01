@@ -1,0 +1,31 @@
+C:\Users\Alumnos\Desktop\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alumnos\Desktop\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alumnos\Desktop\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\Desktop\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alumnos\Desktop\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.pdb
+G:\PLATAFORMA\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.dll
+G:\PLATAFORMA\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.pdb
+G:\PLATAFORMA\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+G:\PLATAFORMA\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.dll
+G:\PLATAFORMA\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\EPIS\Desktop\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\EPIS\Desktop\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\EPIS\Desktop\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\EPIS\Desktop\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\EPIS\Desktop\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\CapaDatos\obj\Debug\CapaDatos.pdb

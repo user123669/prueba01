@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Default.aspx" title="Inicio"  description="Inicio UAC">
+        <siteMapNode url="Universidad.aspx" title="La Universidad"  description="Datos de la UAC" />
+        <siteMapNode url="Organizacion.aspx" title="Organizacion"  description="Organizacion de la UAC" />
+        <siteMapNode url="Facultades.aspx" title="Facultades"  description="Facultades de la UAC" />
+        <siteMapNode url="Servicios.aspx" title="Servicios"  description="servicios de la UAC" />
+        <siteMapNode url="Direcciones.aspx" title="Direcciones"  description="Direcciones de la UAC" />
+        <siteMapNode url="Login.aspx" title="Inicio de Sesion"  description="Sesion Alumno" />
+    </siteMapNode>
+</siteMap>

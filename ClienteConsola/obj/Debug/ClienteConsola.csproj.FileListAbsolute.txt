@@ -1,0 +1,31 @@
+G:\PLATAFORMA\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.exe.config
+G:\PLATAFORMA\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.exe
+G:\PLATAFORMA\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.pdb
+G:\PLATAFORMA\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.csprojResolveAssemblyReference.cache
+G:\PLATAFORMA\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.exe
+G:\PLATAFORMA\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.pdb
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.exe.config
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.exe
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.pdb
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.csprojResolveAssemblyReference.cache
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.exe
+C:\Users\EPIS\Desktop\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.exe.config
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.exe
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.exe
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.pdb
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.exe.config
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.exe
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteConsola\bin\Debug\ClienteConsola.pdb
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.exe
+C:\Users\Christian\Desktop\prueba\SistemaAcademico\ClienteConsola\obj\Debug\ClienteConsola.pdb
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteConsola\bin\Debug\ClienteConsola.exe.config
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteConsola\bin\Debug\ClienteConsola.exe
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteConsola\bin\Debug\ClienteConsola.pdb
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteConsola\obj\Debug\ClienteConsola.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteConsola\obj\Debug\ClienteConsola.exe
+C:\Users\Christian\Desktop\prueba\SistemaLibreria\ClienteConsola\obj\Debug\ClienteConsola.pdb
